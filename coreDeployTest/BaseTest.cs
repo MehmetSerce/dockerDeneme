@@ -15,6 +15,7 @@ namespace coreDeployTest
         public IWebDriver GetDriver()
         {
             var capability = DesiredCapabilities.Chrome();
+          
             if (_driver == null)
             {
                 _driver = new RemoteWebDriver(new Uri("http://localhost:4444/wd/hub/"), capability, TimeSpan.FromSeconds(600));
