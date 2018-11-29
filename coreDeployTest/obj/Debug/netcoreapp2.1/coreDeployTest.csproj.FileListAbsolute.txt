@@ -19,7 +19,6 @@ C:\Users\User\Desktop\coreOnLinux3\coreDeployTest\bin\Debug\netcoreapp2.1\coreDe
 C:\Users\User\Desktop\coreOnLinux3\coreDeployTest\bin\Debug\netcoreapp2.1\coreDeployTest.runtimeconfig.dev.json
 C:\Users\User\Desktop\coreOnLinux3\coreDeployTest\bin\Debug\netcoreapp2.1\coreDeployTest.dll
 C:\Users\User\Desktop\coreOnLinux3\coreDeployTest\bin\Debug\netcoreapp2.1\coreDeployTest.pdb
-C:\Users\User\Desktop\coreOnLinux3\coreDeployTest\obj\Debug\netcoreapp2.1\coreDeployTest.csprojResolveAssemblyReference.cache
 C:\Users\User\Desktop\coreOnLinux3\coreDeployTest\obj\Debug\netcoreapp2.1\coreDeployTest.csproj.CoreCompileInputs.cache
 C:\Users\User\Desktop\coreOnLinux3\coreDeployTest\obj\Debug\netcoreapp2.1\coreDeployTest.AssemblyInfoInputs.cache
 C:\Users\User\Desktop\coreOnLinux3\coreDeployTest\obj\Debug\netcoreapp2.1\coreDeployTest.AssemblyInfo.cs
