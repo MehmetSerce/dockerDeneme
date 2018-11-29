@@ -15,32 +15,34 @@ namespace coreDeployTest
             using (var driver = GetDriver())
             {
                 driver.Navigate().GoToUrl(Url);
-                var res = driver.FindElement(By.Id("lst-ib"));
-                Assert.True(res != null);
+              string getir=  driver.Title;
+                var res = driver.FindElement(By.Id("tsf"));
+                //Assert.True(res != null);
+                Assert.Equal("Google", getir);
             }
         }
 
-        [Fact]
-        public void Test2()
-        {
-            using (var driver = GetDriver())
-            {
-                driver.Navigate().GoToUrl(Url);
-                var res = driver.FindElement(By.Id("lst-ib"));
-                Assert.True(res != null);
-            }
-        }
+        //[Fact]
+        //public void Test2()
+        //{
+        //    using (var driver = GetDriver())
+        //    {
+        //        driver.Navigate().GoToUrl(Url);
+        //        var res = driver.FindElement(By.Id("lst-ib"));
+        //        Assert.True(res != null);
+        //    }
+        //}
 
-        [Fact]
-        public void Test3()
-        {
-            using (var driver = GetDriver())
-            {
-                driver.Navigate().GoToUrl(Url);
-                var res = driver.FindElement(By.Id("lst-ib"));
-                Assert.True(res != null);
-            }
-        }
+        //[Fact]
+        //public void Test3()
+        //{
+        //    using (var driver = GetDriver())
+        //    {
+        //        driver.Navigate().GoToUrl(Url);
+        //        var res = driver.FindElement(By.Id("lst-ib"));
+        //        Assert.True(res != null);
+        //    }
+        //}
 
 
     }
