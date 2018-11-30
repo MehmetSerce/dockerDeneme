@@ -16,7 +16,8 @@ namespace coreDeployTest
             {
                 driver.Navigate().GoToUrl(Url);
               string getir=  driver.Title;
-                var res = driver.FindElement(By.Id("tsf"));
+                _wait.Until(ExpectedConditions.ElementExists(By.Id("tsf")));
+                //var res = driver.FindElement(By.Id("tsf"));
                 //Assert.True(res != null);
                 Assert.Equal("Google", getir);
             }
