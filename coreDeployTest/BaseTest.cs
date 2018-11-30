@@ -27,10 +27,10 @@ namespace coreDeployTest
 
             if (_driver == null)
             {
-                _driver = new RemoteWebDriver(new Uri("http://18.197.138.246:4444/wd/hub/"), capabilities, TimeSpan.FromSeconds(600));
+                _driver = new RemoteWebDriver(new Uri("http://3.122.10.57:4444/wd/hub/"), capabilities, TimeSpan.FromSeconds(600));
             }
 
-            _wait = new WebDriverWait(_driver, TimeSpan.FromSeconds(20));
+            _wait = new WebDriverWait(_driver, TimeSpan.FromSeconds(10));
 
             return _driver;
         }
