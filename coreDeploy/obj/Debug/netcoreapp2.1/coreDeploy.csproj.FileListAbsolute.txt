@@ -30,7 +30,6 @@ C:\Users\User\Desktop\coreOnLinux\coreDeploy\bin\Debug\netcoreapp2.1\coreDeploy.
 C:\Users\User\Desktop\coreOnLinux\coreDeploy\bin\Debug\netcoreapp2.1\coreDeploy.Views.pdb
 C:\Users\User\Desktop\coreOnLinux\coreDeploy\obj\Debug\netcoreapp2.1\coreDeploy.Views.pdb
 C:\Users\User\Desktop\coreOnLinux\coreDeploy\obj\Debug\netcoreapp2.1\coreDeploy.csproj.CopyComplete
-C:\Users\User\Desktop\coreOnLinux3\coreDeploy\obj\Debug\netcoreapp2.1\coreDeploy.csprojResolveAssemblyReference.cache
 C:\Users\User\Desktop\coreOnLinux3\coreDeploy\obj\Debug\netcoreapp2.1\coreDeploy.csproj.CoreCompileInputs.cache
 C:\Users\User\Desktop\coreOnLinux3\coreDeploy\obj\Debug\netcoreapp2.1\coreDeploy.RazorAssemblyInfo.cache
 C:\Users\User\Desktop\coreOnLinux3\coreDeploy\obj\Debug\netcoreapp2.1\coreDeploy.RazorAssemblyInfo.cs
